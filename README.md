@@ -7,3 +7,6 @@ MERN STACK AI Image Generator App
 3.) Leverages cutting-edge algorithms to produce high-quality images that mimic various styles, subjects, and artistic concepts.
 
 4.) Simplifies the process of image creation by providing an intuitive interface and a vast collection of customizable parameters, allowing users to tailor their generated images to their specific preferences and requirements.
+
+
+https://melodious-pothos-427b8c.netlify.app/
